@@ -130,6 +130,18 @@
   height: 40px;
 }
 
-.op:hover {
+.logo1:hover {
   opacity: 0.5;
+}
+
+.hover-opacity:hover {
+  opacity: 0.4;
+}
+
+.fa {
+  color: black;
+}
+
+.im {
+  border-radius: 50%;
 }
